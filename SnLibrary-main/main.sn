@@ -1,0 +1,12 @@
+sn main(){
+    //Dikkat Et! Yazı Yazaeken ve komut kullanırken türkçe karakter desteklenmiyor.
+    //Pencere Olusturdum
+    // yazdir("libSN") ile Komut Satırına Yazı Yazdırabilirsin
+    // verigirisi("Giris: ") ile Komut Satırından Deger Alabililirsin
+    // <Pencere> ile Pencere Oluşturabilirsin. Dikkat Et Komut En Son Satırda Olmalı
+    // <Yazi>Kendi Yazım</Yazi> ile Yazı Yazabilirsin
+
+    
+    <Yazi>Kendi Yazim</Yazi>
+    <Pencere>
+}

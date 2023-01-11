@@ -1,0 +1,7 @@
+-> Örnek Proje Kuruludur
+-> main.sn ve main.py editör ile açılır
+-> main.sn isteğe göre düzenlenir ve main.py çalıştırılır
+-> SnLibrary basit ve hızlı bir şekilde "sn" dili ile pythona ui tasırımı yapmayı sağlar
+-> temel olarak python kullanılır
+-> pencere boyutu gibi ince ayarları main.py den düzenlenebilir
+-> gerekmedikçe lib klasörü düzenlenmemeli
